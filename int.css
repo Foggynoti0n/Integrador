@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bgi{
+    background-image: linear-gradient(#00000093, #00000093 ), url(img/ba1.jpg);
+    background-size: cover;
+    height: 560px;
+    background-attachment:fixed;
+    background-position: center;
+    
+    align-items: baseline;
+}
+
+
+.titulo{
+    text-align: center;
+
+}
+.d{
+    height: 500px;
+
+}
+.uno{
+   background-image: url(img/honolulu.jpg);
+   background-size: cover;
+}
+
+.bloque{
+    height: 400px;
+}
+
+.navbar{
+
+background-color: #353A40;
+}
+.pantallaD{
+background-color: #353A40;
+}
+.ftr{
+
+height: 90px;
+}
+.verde{
+background-color: #84C63D;
+}
+
+footer li{
+   
+    width: 120px;
+
+}
